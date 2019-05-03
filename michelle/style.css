@@ -1,0 +1,29 @@
+body{
+    color: purple;
+    /*color: #cccccc*/;
+    margin: 0;
+    text-align: center;
+    font-family: "Furtura";
+}
+
+
+
+/* 
+#output{
+    margin: 30px;
+    padding: 10px;
+    border: dashed 1px red;
+    background-color: blue;
+    color: white;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    height: 100px;
+    width: 300px;
+}
+#image{
+    margin: 50px;
+    padding: 5px;
+    text-align: center;
+    color: black;
+} */
